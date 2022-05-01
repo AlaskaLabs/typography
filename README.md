@@ -82,6 +82,54 @@ Typography dictates a lot of how people will feel when they experience your desi
 
 
 
+### 2. Line-height & Tracking `letter-spacing`
+
+By default, some fonts are more spaced between the letters, or have a closer space between lines. The way they're build directly affects the aesthetic, and readability of your design.
+
+Sometimes, they look great by default. Other times, you have to adjust them.
+
+There are some principles you can apply for creating visually appealing designs, and improving readability by adjusting your fonts.
+
+> I play around with `line-height` and `letter-spacing` for each element style. 
+>
+> As a rule-of-thumb, the bigger the text, the closer the spacing should be. As the text gets smaller, the space between letters, and lines should increase.
+>
+> — @pixelsbyeryc
+
+#### Rule-of-Thumb
+
+| - | Size | Line-height | Letter-spacing | 
+| :--- | :--- | :--- | :--- |
+| Paragraph/Text | `14px` - `18px` | `120%` - `180%` | `-2%` - `+1%` |
+| Heading/Title | `28px` - `+250px` | `75%` - `120%` | `-5%` - `0%` |
+
+You can use this formula to make your fonts look better, BUT... You should always refer to optical vs. math. 
+
+Your eyes perceive size, alignment, and space according to the surrounding elements. It's weird, but exact maths does not help. To understand more about this, read [Best Practices for Measured vs. Optical Alignment](https://liferay.design/articles/best-practices/measured-vs-optical-alignment/).
+
+
+#### Examples
+
+
+
+### 3. Alignment
+
+#### Examples
+
+
+
+### 4. Contrast
+
+#### Hierarchy
+
+#### Color
+
+#### Font Sizes
+
+#### Examples
+
+
+
 ---
 
 ## Contribute
