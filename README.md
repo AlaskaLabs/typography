@@ -42,6 +42,23 @@ You are [free to contribute](#contribute), as this is [Public Domain](/LICENSE),
 	- Color
 	- Font Sizes
 	- Examples
+### 1. Choosing a font for your project
+**Typography is the foundation of any design project.**
+
+Typography dictates a lot of how people will feel when they experience your designs. Choosing the right fonts for your project is one of the most important steps in the beginning. 
+
+#### Principles for choosing typography:
+1. **Familiarity.** People recognize things more easily when they're familiar. Not only that, familiarity inherits trust.
+	- **Align the look with your brand.** If you keep using different fonts for different projects in the same brand, how will the customers recognize or even trust that the project is from that brand?
+	- **Look for competitors or similar projects to see what they're already using.** You don't have to copy them. But you shouldn't steer away from the familiarity _unless you have a good reason to do so._
+2. **Aesthetic-Usability.** People perceive aesthetically pleasing designs as more usable. [`ref`](https://lawsofux.com/aesthetic-usability-effect/)
+	- **Use well-designed fonts.** A well-designed font looks great with all combination of characters, and has all characters you need. Eg: if the spacing between letters feels off, it's a red flag.
+	- **Prioritize readability.** Choose fonts that work great on very small sizes and very large sizes, according to your needs. At the end of the day, you want to convey a message, and if your audience can't read it, you failed.
+3. **Doherty Threshold.** People don't want to wait. [`ref`](https://lawsofux.com/doherty-threshold/)
+	- **Optimize for performance.** A lot of fonts are heavy, and take a long time to load. You can remedy that by adding a loading screen in your project until the font finishes loading.
+4. **Experience-first.** What do you want your audience/customer to experience? Think about it for a second. Do you want them to feel luxurious? Do you want them to feel in the future, in the past, or the present?
+	- **Look for references that make you feel how you want your audience to feel.** You can look for it in competitors websites, or similar industries. You can also look for it in movie posters, advertisements, and several other mediums.
+
 
 
 ---
