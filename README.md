@@ -1,6 +1,26 @@
 # Typography Principles
 `CC0` Open Source repository for Typography Principles.
 
+## Contents
+- [How to use this repository](#how-to-use-this-repository)
+- [Resources](#resources): In-depth knowledge
+- [Principles](#principles): Principles for the web
+- [Contribute](#contribute)
+- [License](#license)
+
+## How to use this repository
+As of now, this repository is meant to bring principles for day-to-day use of **typography on the web**.
+
+1. If you already know the basics of typography, skip to [Principles](#principles).
+2. If you're a developer wanting to use typography better, skip to [Principles](#principles).
+3. If you want to learn the basics and really dive in, go to [Resources](#resources).
+
+
+You are [free to contribute](#contribute), as this is [Public Domain](/LICENSE), and add more principles.
+
+---
+
+
 ## Resources
 - `post` [Typography Basics](https://webdesign.tutsplus.com/articles/a-comprehensive-guide-to-typography-basics--cms-26644) 
 - `post` [Typography Elements Everyone Needs to Understand](https://medium.com/gravitdesigner/typography-elements-everyone-needs-to-understand-5fdea82f470d#:~:text=The%20good%20news%20is%2C%20there,can%20revolutionize%20any%20design%20project.) 
