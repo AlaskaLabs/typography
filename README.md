@@ -25,6 +25,8 @@ You are [free to contribute](#contribute), as this is [Public Domain](/LICENSE),
 - `post` [Typography Basics](https://webdesign.tutsplus.com/articles/a-comprehensive-guide-to-typography-basics--cms-26644) 
 - `post` [Typography Elements Everyone Needs to Understand](https://medium.com/gravitdesigner/typography-elements-everyone-needs-to-understand-5fdea82f470d#:~:text=The%20good%20news%20is%2C%20there,can%20revolutionize%20any%20design%20project.) 
 - `site` [Typography Principles by Obyss](https://typographyprinciples.obys.agency/fonts/) 
+- `post` [Typographic Emotions](aetherpoint.com/blogpost/typographic-emotions)
+- `post` [Psychology of Fonts](https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943)
 
 
 ## Principles
