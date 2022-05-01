@@ -57,3 +57,6 @@ Other ways you can contribute:
 - Share your knowledge publicly. _You don't have to be associated with this project to help others out._
 
 ## License
+:stuck_out_tongue_closed_eyes: License to do whatever ~ᵗʰᵉ ᶠᵘᶜᵏ~ you want. **Go nuts.**
+
+[![cc-0](https://ForTheBadge.com/images/badges/cc-0.svg)](https://github.com/AlaskaLabs/typography/blob/main/LICENSE)
