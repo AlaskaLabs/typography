@@ -22,3 +22,18 @@
 	- Examples
 
 
+---
+
+## Contribute
+There are many ways to contribute with this project:
+
+- [Open an issue to request changes or additions](https://github.com/AlaskaLabs/typography/issues)
+- [Open a PR to propose changes or additions](https://github.com/AlaskaLabs/typography/pulls)
+- [Fork and share your own typography principles](https://github.com/AlaskaLabs/typography/fork)
+- [Start a discussion](https://github.com/AlaskaLabs/typography/discussions)
+
+Other ways you can contribute:
+- Star this project and share it with your network :tada:
+- Share your knowledge publicly. _You don't have to be associated with this project to help others out._
+
+## License
