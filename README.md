@@ -30,18 +30,23 @@ You are [free to contribute](#contribute), as this is [Public Domain](/LICENSE),
 
 
 ## Principles
-- Choosing a font for your project
-	- Font Recommendations
-	- Font Pairing
-- Line-height & Tracking `letter-spacing`
-	- Examples
-- Alignment
-	- Examples
-- Contrast
-	- Hierarchy
-	- Color
-	- Font Sizes
-	- Examples
+1. [Choosing a font for your project](#1-choosing-a-font-for-your-project)
+	- [Principles for choosing typography](#principles-for-choosing-typography)
+	- [What do you want people to feel?](#what-do-you-want-people-to-feel)
+	- [Font Recommendations](#font-recommendations)
+	- [Font Pairing](#font-pairing)
+	- [Fonts-in-use](#fonts-in-use)
+2. [Line-height & Tracking `letter-spacing`](#2-line-height--tracking-letter-spacing)
+	- [Rule-of-thumb](#rule-of-thumb)
+	- [Examples](#examples)
+3. [Alignment](#3-alignment)
+	- [Examples](#examples-1)
+4. [Contrast](#4-contrast)
+	- [Hierarchy](#hierarchy)
+	- [Color](#color)
+	- [Font Sizes](#font-sizes)
+	- [Examples](#examples-2)
+
 ### 1. Choosing a font for your project
 **Typography is the foundation of any design project.**
 
