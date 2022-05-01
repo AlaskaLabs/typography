@@ -60,6 +60,27 @@ Typography dictates a lot of how people will feel when they experience your desi
 	- **Look for references that make you feel how you want your audience to feel.** You can look for it in competitors websites, or similar industries. You can also look for it in movie posters, advertisements, and several other mediums.
 
 
+#### What do you want people to feel?
+
+| Category | Psychology Associations | Description |
+| :--- | :----- | :--------- |
+| Serif | Formal, traditional, intellectual. | These fonts are used in industries that require a more traditional and trustworthy look, like law firms, newspapers. They are also used in industries that require a sophisticated look, like luxury fashion brands. |
+| Slab Serif | Powerful, strong, industrial | Most used in industries that are more industrial, like manufacturers. Some of these fonts remind a lot of the "old-west" look from the US. |
+| Sans-serif | Informal, friendly, modern, approachable. | Nowadays, sans-serif fonts are the most used because of their great readability. When it comes to brands, and industries, it's most used in tech companies, social media sites, retail brands. |
+| Modern Sans-serif | Progressive, modern, sophisticated. | These fonts are largely adopted by sophisticated modern industries, like luxury brands, edgy startups, architecture. |
+| Script | Fun, elegant, romantic. | Script fonts have been used by big brands like Disney, Ray-Ban, and Coca-Cola because of their look. They can look great in big text, but not legible for small text. |
+| Display | Independent fonts. | Display fonts are mostly used for titles, and big text. They can range from most categories, and even look weird (like gooey or like geometric shapes). |
+
+[_Further reading on the Psychology of Fonts_.](https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943)
+
+
+#### Font Recommendations
+
+#### Font Pairing
+
+#### Fonts-in-use
+
+
 
 ---
 
