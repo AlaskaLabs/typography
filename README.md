@@ -27,6 +27,7 @@ You are [free to contribute](#contribute), as this is [Public Domain](/LICENSE),
 - `site` [Typography Principles by Obyss](https://typographyprinciples.obys.agency/fonts/) 
 - `post` [Typographic Emotions](aetherpoint.com/blogpost/typographic-emotions)
 - `post` [Psychology of Fonts](https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943)
+- `blog` [Font Review Journal](https://fontreviewjournal.com/)
 
 
 ## Principles
